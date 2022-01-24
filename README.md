@@ -22,6 +22,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WJNZHF4');</script>
 <!-- End Google Tag Manager -->
 
+
+
 This code below is inserted right below the opening of the body tag. 
 As in the previous one, it has my own GTM account code (You must change it to point to your account)
 
