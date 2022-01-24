@@ -12,22 +12,3 @@ After that, all tag insertions will take place through your GTM account.
 These are the same script snippets in the files in this repository. 
 However, in this project, the hosted site is connected to the GTM account code: GTM-WJNZHF4
 So, You must change to your own GTM account
-
-A code like the one below must be present between the head tags.
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WJNZHF4');</script>
-<!-- End Google Tag Manager -->
-
-
-
-This code below is inserted right below the opening of the body tag. 
-As in the previous one, it has my own GTM account code (You must change it to point to your account)
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJNZHF4"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
