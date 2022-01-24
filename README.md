@@ -11,4 +11,4 @@ After that, all tag insertions will take place through your GTM account.
 
 These are the same script snippets in the files in this repository. 
 However, in this project, the hosted site is connected to the GTM account code: GTM-WJNZHF4
-So, You must change to your own GTM account
+So, You must change to your own GTM account.
